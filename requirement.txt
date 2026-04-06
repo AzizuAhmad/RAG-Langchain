@@ -7,3 +7,5 @@ beautifulsoup4
 sentence-transformers
 faiss-cpu
 chromadb
+python-dotenv
+langchain-openai
